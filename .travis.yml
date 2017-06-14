@@ -37,7 +37,7 @@ notifications:
     on_failure: change
 
 env:
- - BOARD=arduino:avr:uno
+# - BOARD=arduino:avr:uno
 # - BOARD=arduino:avr:yun
 # - BOARD=arduino:avr:diecimila:cpu=atmega168
 # - BOARD=arduino:avr:diecimila:cpu=atmega328
