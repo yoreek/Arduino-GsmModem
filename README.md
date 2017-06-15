@@ -1,7 +1,12 @@
-# Fully asynchronous GSM library [![Build Status](https://travis-ci.org/yoreek/Arduino-GsmModem.svg?branch=master)](https://travis-ci.org/yoreek/Arduino-GsmModem)
+# Fully asynchronous Arduino library for GSM modules [![Build Status](https://travis-ci.org/yoreek/Arduino-GsmModem.svg?branch=master)](https://travis-ci.org/yoreek/Arduino-GsmModem)
 
 * Version: 1.0.0
 * Release Date: 2017-06-14
+
+## Supported modules
+
+* SIM900
+* M590
 
 ## How do I get set up? ##
 
